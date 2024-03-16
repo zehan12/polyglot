@@ -1,3 +1,17 @@
+/*-------------------------------------------------------------------
+|                    🚀 NEXTJS POLYGLOT APP 🚀
+|
+|  HELLO 👋! WELCOME TO POLYGLOT APP. THIS APP FETCHES DATA FROM AN 
+|  EXTERNAL API AND DISPLAYS THE DATA. THIS APP FOR lEARNING 
+|  LANGUAGES THROUGH QUICK, BITE-SIZED LESSONS. PRACTICE SPEAKING.
+|  READING, LISTENING, AND WRITING TO BUILD YOUR VOCABULARY AND
+|  GRAMMAR SKILLS, FEEL FREE TO REACH OUT TO ME OR OPEN AN ISSUE 
+|  ON GITHUB. THANKS!
+|
+|  🔗CREATOR: https://github.com/zehan12
+|  🔗SOURCE CODE: https://github.com/zehan12/polyglot
+|
+*-------------------------------------------------------------------*/
 import type { Metadata } from "next";
 import { Nunito } from "next/font/google";
 import "./globals.css";
