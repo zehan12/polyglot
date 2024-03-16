@@ -1,7 +1,7 @@
 /*-------------------------------------------------------------------
-|  🐼 React FC Advertising
+|  🐼 React FC ADVERTISING
 |
-|  🐯 Purpose: THIS IS THE Advertising OF THE APPLICATION
+|  🐯 Purpose: THIS IS THE ADVERTISING PAGE OF THE APPLICATION
 |
 |  🐸 Returns:  JSX
 *-------------------------------------------------------------------*/

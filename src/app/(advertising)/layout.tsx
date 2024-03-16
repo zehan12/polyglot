@@ -1,7 +1,7 @@
 /*-------------------------------------------------------------------
-|  🐼 React FC Layout
+|  🐼 React FC ADVERTISING LAYOUT
 |
-|  🐯 Purpose: RE-USEABLE LAYOUT TO BE USED IN NEXTJS PAGES
+|  🐯 Purpose: RE-USEABLE ADVERTISING LAYOUT TO BE USED IN NEXTJS PAGES
 |
 |  🐸 Returns:  JSX
 *-------------------------------------------------------------------*/
